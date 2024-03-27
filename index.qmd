@@ -1,0 +1,19 @@
+---
+title: "ADMB Foundation"
+---
+
+Supporting the AD Model Builder Community
+
+AD Model Builder can now be downloaded from the [ADMB Project website](https://www.admb-project.org/)
+
+The objectives of the ADMB Foundation are to:
+
+1. Advance the ADMB project for improving data analysis and non-linear statistical modeling
+2. Act as an official voice for the ADMB project, providing means of communication with the press, commercial and noncommercial organizations interested in the ADMB software
+3. Coordinate development and promote use of ADMB
+
+Furthermore, to:
+
+4. Advance the [TMB project](https://github.com/kaskr/adcomp/wiki), support development and promote use of TMB
+
+The ADMB Foundation is a non-profit organization working in the public interest for charitable, educational and scientific purposes under section 501(c)(3) of the United States Internal Revenue Code.

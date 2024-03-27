@@ -1,0 +1,29 @@
+---
+title: "Public Documents"
+---
+
+* Governance
+  * [Articles of Incorporation](public_documents/ADMB-Foundation-Articles(amended).pdf)
+  * [Bylaws](public_documents/ADMB-Foundation-Bylaws.pdf)
+  * [Conflict of Interest Policy](public_documents/ADMB_Conflict_of_Interest_Policy.pdf)
+  * [Annual Conflict of Interest Declaration](public_documents/ADMB_Foundation_Conflict_of_Interest_Annual_Statement.pdf)
+  * Board Meetings
+    * [July 17, 2007](public_documents/minutes-2007-7-17.pdf)
+    * [January 13, 2009](public_documents/minutes-2009-1-13.pdf)
+    * [March 29, 2010](public_documents/minutes-2010-03-29.pdf)
+    * [March 5, 2011](public_documents/)
+    * May 10, 2012 (not available)
+    * June 6, 2013 (not available)
+    * [January 9, 2020](public_documents/ADMB_Foundation_Meeting_20200109.pdf)
+    * [April 28, 2022](public_documents/ADMB_Foundation_meeting_2022-04-28.pdf)
+* Tax-exempt Status
+  * [Application to the IRS for 501(3)(c) tax-exempt status](public_documents/ADMB-Foundation-Form1023-with-attachments.pdf)
+  * [IRS 501(3)(c) Determination](public_documents/ADMB-Foundation-501c3.pdf)
+  * [State of Hawaii Tax Exemption Certificate](public_documents/HI-exemption-certificate.pdf)
+* Tax Returns and Financial Information
+  * [990-PF, 2007](public_documents/990-PF-2007.pdf)
+  * [990-PF, 2008](public_documents/990-PF-2008.pdf)
+  * [990-PF, 2009](public_documents/990-PF-2009.pdf)
+  * [990-PF, 2010](public_documents/990-PF-2010.pdf)
+  * 990-PF 2011 (not available)
+  * [990-PF-2012](public_documents/990-PF-2012.pdf)

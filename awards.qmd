@@ -1,0 +1,85 @@
+---
+title: "Awards"
+---
+
+The ADMB Foundation supports outstanding achievements in integrated statistical modeling through:
+
+## Special Awards
+
+The ADMB Foundation aims to generally improve data analysis and non-linear statistical modeling and to coordinate development and promote use of the ADModel Builder software. The field of fisheries has had a central role in the development of ADMB and there are literally thousands of ADMB applications in fisheries.
+
+The Foundation has established a small number of special awards to recognize outstanding achievement in the application of statistical modeling in fisheries. These awards will be presented to the author(s) of the best papers presented at fisheries meetings meetings with preference to paper presented by students and scientists from developing countires.
+
+The outstanding achievement will be judged on the basis of:
+
+1. Integration of diverse data
+2. Creative solution of computational problems
+3. Analytical innovations
+4. Contribution to the goals of the ADMB Foundation
+
+by a special committee nominated by ADMB Foundation members.
+
+The special awards included
+
+### 2009 American Fisheries Society Annual Meeting 
+
+up to $600 to assist with travel expenses to participate in the American Fisheries Society Annual
+
+### ADMB Tuna Conference award
+The Foundation has established an award to recognize outstanding student achievement in the application of statistical modeling in fisheries. The Award may value up to $775, which would cover the registration fee and room charge. The outstanding achievement will be judged on the basis of:
+
+1. Integration of diverse data
+2. Creative solution of computational problems
+3. Analytical innovations
+4. Contribution to the goals of the ADMB Foundation
+
+by a special committee nominated by ADMB Foundation members.
+
+#### ADMB Tuna Conference award winners
+* 2009 (60th Tuna Conference) – Eunjung Kim from the University of Hawaii: “Simulating the effect of FAD density on large scale movements.”
+
+* 2010 (61st Tuna Conference) – Jordan Watson from the University of Washington: “Trade-Offs in the design of fishery closures: silky shark bycatch management in the eastern Pacific Ocean tuna purse-seine fishery.”
+
+* 2012 (63rd Tuna Conference) – Raul O. Martinez-Rincon from CICIMAR: “Comparative performance of generalized additive models and boosted regression trees for statistical modeling of incidental catch of wahoo (*Acanthocybium Solandri*) in the Mexican purse-seine fishery.”
+
+* 2013 (64th Tuna Conference) – Chi Hin Lam: “Movements and oceanographic associations of bigeye tuna (*Thunnus obesus*) in the NW Atlantic determined by popup satellite archival tags.”
+
+* 2015 (66th Tuna Conference) – Lisa Ailloud: “Potential impacts of minimum weight regulations for Pacific bluefin tuna (*Thunnus orientalis*).”
+
+## Nomination of David Founier for the American Fisheries Society Ricker Award
+
+Dave Fournier received the American Fisheries Society’s Ricker award. This is a prestigious award and provides Dave recognition not only for the great contribution AD Model Builder has made to fisheries stock assessment, but also Dave’s contribution to fisheries stock assessment methodology, such as being the pioneer of integrated analysis (see Fournier and Archibald 1982).
+
+The ADMB Foundation initiated and coordinated the nomination of Dave for this award. Prof. Ray Hilborn, a previous recipient of the award, volunteered to be the nominator. Several of you provided letters of support and we thank you for your efforts.
+
+Dave was first nominated in 2008 and was the runner up for the award. This meant that his nomination would be carried over to 2009. Since the 2008 nomination, the Moore Foundation grant was awarded, and provided additional support for Dave’s nomination.
+
+More information about the William E. Ricker Resource Conservation Award  can be found at the AFS awards website.
+
+Below are some statements taken from selected supporting letters.
+
+> “If Ricker is considered the grandfather of modern fisheries stock assessment, then Fournier should be considered the father. “
+> -- <cite>Prof. Ray Hilborn, University of Washington</cite>
+
+
+> “His theoretical, practical, and technical contributions have helped reshape modern stock assessment science, not just in North America, but throughout the world”
+> -- <cite>Michael H. Prager, U.S. National Marine Fisheries Service</cite>
+
+
+> “Dr. Fournier’s work has allowed population assessment methodology in fisheries to advance further than population assessment methodology in other related fields.”
+> -- <cite>Mark Maunder, Inter-American Tropical Tuna Commission</cite>
+
+
+> “Dr. Fournier’s publications on assessment theory and methods, and the software tools developed by Dr. Fournier (especially ADMB) have been essential in the widespread application of statistically rigorous integrated stock assessments for marine fisheries throughout the world.”
+> -- <cite>Prof. James Bence, Michigan State University</cite>
+
+
+> “It is difficult to exaggerate the importance of this intellectual and computational breakthrough.”
+> -- <cite>John Sibert, University of Hawaii</cite>
+
+
+> “It is no exaggeration to state that Dr. Fournier’s development of ADMB has empowered an entire generation of fishery stock assessment scientists.”
+> -- <cite>Richard Methot, NOAA Fisheries</cite>
+
+> “[ADMB] is of crucial importance in allowing the European Community to develop recovery and long-term management plans that meet commitments under the World Summit on Sustainable Development”
+> -- <cite>Laurence Kell, Center for Environment, Fisheries, Aquaculture Science, UK.</cite>

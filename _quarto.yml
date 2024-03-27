@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - community.qmd
+      - awards.qmd
+      - newsletters.qmd
+      - public_documents.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
